@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align='center'>
+<a href="mailto:nikolapaunovic99@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nikola-p-977453121/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
-<!--
-**NikolaMag99/NikolaMag99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello there, my name is Nikola Paunović!&nbsp;&nbsp;💻&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-Here are some ideas to get you started:
+<p align="center">Welcome to my Github page. I'm a student at the Faculty of Computing at Union University in Belgrade, Serbia. I am creative and innovative student, who is always looking for new challenges. Skilled in Frontend and Backend languages.
+Also experienced Film Director with a demonstrated history of working in the telecommunications industry.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align='center'>
+<img width="500" align='center' src="https://github-readme-stats.vercel.app/api?username=NikolaMag99&show_icons=true&theme=tokyonight">
+</p>
+
