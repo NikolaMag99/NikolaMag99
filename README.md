@@ -1,6 +1,5 @@
 <p align='center'>
 <a href="mailto:nikolapaunovic99@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nikola-p-977453121/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Hello there, my name is Nikola Paunović!&nbsp;&nbsp;💻&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="31px"></h2>
